@@ -66,18 +66,28 @@ No incluye implementación directa en infraestructura productiva.
 ## 📂 Estructura del Proyecto
 SuperAppSecurityKit/
  
+SuperAppSecurityKit/
+
 ├── docs/
+
 │ ├── manual.md
-  ├── checklist.md
+
+│ ├── checklist.md
+
 │ └── awareness.md
 
 ├── policies/
+
 │ ├── password_policy.md
-  ├── access_control_policy.md
+
+│ ├── access_control_policy.md
+
 │ └── incident_response.md
 
 ├── scripts/
-  ├── zap_scan.sh
+
+│ ├── zap_scan.sh
+
 │ └── header_check.py
 
 └── README.md
